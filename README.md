@@ -1,3 +1,4 @@
 # Welcome to Cooding Recipe!
-
-<img src="./coodingrecipev2.png" width="100%"/>
+<div align="center">
+<img src="./coodingrecipev2.png" width="40%"/>
+</div>
