@@ -1,3 +1,3 @@
 # Welcome to Cooding Recipe!
 
-<img src="./coodingrecipe.png" width="100%"/>
+<img src="./coodingrecipev2.png" width="100%"/>
