@@ -1,0 +1,14 @@
+name: coodingrecipe
+version: "3.9"
+services: 
+  coodingrecipe:
+    container_name: recipe10
+    build:
+      context: ../.. 
+      dockerfile: devops/stage/Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env.stage
+    environment:
+      - NODE_ENV=staging
